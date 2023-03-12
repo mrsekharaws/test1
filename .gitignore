@@ -1,7 +1,8 @@
 # Compiled class file
 *.class
 *.txt
-*.sh*.sh*.sh*.sh*.sh*.sh*.sh*.sh
+*.sh
+*.xml
 # Log file
 *.log
 
